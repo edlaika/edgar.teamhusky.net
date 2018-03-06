@@ -1,0 +1,13 @@
+html {
+  background: url(../img/funnycopter.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {
+    color: #2f4f6b;
+}
+p{
+   color: #2f4f6b;
+}
