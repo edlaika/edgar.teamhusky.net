@@ -239,3 +239,7 @@ nav ul a.active {
 .tabs .indicator {
 	background-color: #1E88E5;
 }
+.tabs .tab a:focus.active {
+    background-color: #B3E5FC;
+    outline: none;
+}
