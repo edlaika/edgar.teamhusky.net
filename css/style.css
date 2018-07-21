@@ -10,11 +10,14 @@
 .footerunderline {
 	color: white;
 }
+footer a {
+	color: white;
+}
 .underline:hover {
 	text-decoration: underline;
 }
 .ha-bg-parallax {
-	background: url(../img/bg.JPG) no-repeat fixed;
+	background: url(../img/cover2_mini.jpg) no-repeat fixed center;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-webkit-background-size: cover;
@@ -24,6 +27,9 @@
 	width: 100%;
 	display: table;
 	vertical-align: middle;
+}
+.parallax {
+	position: no-repeat fixed center;
 }
 .ha-bg-parallax .ha-parallax-body {
 	display: table-cell;
@@ -240,6 +246,28 @@ nav ul a.active {
 	background-color: #1E88E5;
 }
 .tabs .tab a:focus.active {
-    background-color: #B3E5FC;
-    outline: none;
+	background-color: #B3E5FC;
+	outline: none;
+}
+.title h2 {
+	color: white;
+}
+/*logo image*/
+
+.logo {
+	display: inline-block;
+	height: 100%;
+}
+.logo>img {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+/*social color*/
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+	color: #1E88E5;
+}
+.tabs {
+	background-color: #E1F5FE;
 }

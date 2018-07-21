@@ -1,0 +1,7 @@
+
+RewriteEngine on
+ErrorDocument 404 /404.html
+RewriteCond %{HTTP_HOST} ^teamhusky\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.teamhusky\.net$
+RewriteRule ^/?$ "http\:\/\/teamhusky\.edgar\.codes\/" [R=301,L]
+
