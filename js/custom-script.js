@@ -55,7 +55,3 @@ $("#otheranimate").click(function() {
 	$("#otheranimation").addClass("wow fadeInUp animated");
 	$("#otheranimation").attr("style", "visibility: visible; animation-name: fadeInUp;");
 });
-var loc = window.location.href + '';
-if (loc.indexOf('http://') === 0) {
-	window.location.href = loc.replace('http://', 'https://');
-}
