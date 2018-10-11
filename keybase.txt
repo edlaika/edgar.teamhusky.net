@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/husky
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://edgaraxe.com
+  * I am husky (https://keybase.io/husky) on keybase.
+  * I have a public key with fingerprint 8FF0 B610 296A 05BD D145  340D 61E0 19B1 11D0 D845
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010150aca9e03b1fed5b1781f00f811d3e6a52b99e85f00b7c8d71068bfb759e7d270a",
+      "fingerprint": "8ff0b610296a05bdd145340d61e019b111d0d845",
+      "host": "keybase.io",
+      "key_id": "61e019b111d0d845",
+      "kid": "010150aca9e03b1fed5b1781f00f811d3e6a52b99e85f00b7c8d71068bfb759e7d270a",
+      "uid": "09e28e9c5875ef3b2b7463e1c9adc319",
+      "username": "husky"
+    },
+    "service": {
+      "hostname": "edgaraxe.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1539246660,
+  "expire_in": 157680000,
+  "prev": "5d94c29bb09f7cf9c632a9751d91d0ff3f0bf01aed698e182ed397fb606034b8",
+  "seqno": 71,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJZaBNBGE7UWBpbEBWx4Ll9KGiJM7vZnZ2glhq1UvVBRLyicWdnNlna
+ZtPdTWytbcETEUXQ1Ir6IC3igSjihahNvVD0QVQqXg8e4NEq6psUq7O1vvnovAzz
+zfd98/3//LeKh/uC/lW/ls8Vv4Fi//3uXMa3pis4r0kgFm0UIk1CDRvcWC1ljhuv
+MakQEQAEUAaarmEGJAINRmUCkQoNAAwVQioxRZNFgjFTZY4RpKsUQaCoxCBIxgxR
+EQFNKBcMM5Vgdto2Uy63VQ0DEAUCESsakAmlMCxLYUAVyADEBHJnQNWwzIVJy/EU
+PBzRHBYyLY7xQ3ww3j/4/zl35o8dZqLKsC6rSGaGRESCworEoI41qksQe0SH2Smt
+jnF2MuPUNArN5QKHsqbOvK56ZQxdM5rQbK2BhXSrjgvTtuVaulXrCV037UQ8pduY
+9qgbGIkPmcSJmaK8iVyRZbZjWikhAjlTd03PFcoSFsOKooBygTWkTZvFTY8hI0UF
+fHnvsCy3lCkO6yImBGAD6QbWFUnUMJIhxbyJhiHxnzEA1BhVsMqgKjIqYWQQBShA
+ChNV8MqqT1lCBEGeU0twT8dMpDQ3YzOh+UY+NsLnD/pGBoZ50+ULFo7+O3OxgoKB
+ij61TDdmFOXbZ/0oDj3t3n8+i652rRszoRYFYttuDrxb2fAwNzqxdmF79NyLra+y
+ly5Xdb6qLuw91Noyzmq5fuVG29kTebO0M/j9QsMouXn9l+zX6fnFm3YtnLOf3D/W
+8b50F5sSDbz/dm01aJ2z5UeH+7Ntc1nfme8rTvW9bjrcdfOAPCvZ83L+7cdt54pA
+3adp6e0fFqw8+CQaba0umXCspAI/z7HJU3eOsQvuSeOrq/r3nEzUvyhKotkTx/l3
+XLvYe/rZo9Lj3RvjUqj308vdyypxyTbl42HnbuW+nklVDxYVBu7M/FXx9uyR/rK3
+7E0sJ6Tmjz2qRgRpSUvP3odLZ37+DXD+O6Y=
+=rp6V
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/husky
+
+==================================================================
