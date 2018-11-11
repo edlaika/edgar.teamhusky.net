@@ -249,8 +249,13 @@ nav ul a.active {
 	background-color: #B3E5FC;
 	outline: none;
 }
+/*main title page*/
+
 .title h2 {
 	color: white;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #1e88e5;
+	font-weight: bold;
 }
 /*logo image*/
 
